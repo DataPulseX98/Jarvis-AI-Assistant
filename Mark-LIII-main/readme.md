@@ -269,12 +269,5 @@ Mark LIII/
 │   └── wake_word.py          # Local "Hey Jarvis" detector — own thread, offline, opt-in
 └── config/
     └── api_keys.json         # API key, OS setting, assistant name, user name, voice, UI colour, toggles
-```
 
----
-
-## ⚠️ License
-
-Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
 
